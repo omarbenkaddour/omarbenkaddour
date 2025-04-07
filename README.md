@@ -1,6 +1,7 @@
 # Hi, I'm Omar
 
-I'm a data-driven finance student at Wharton with a passion for quantitative research, macroeconomics, and data science. I specialize in building models that extract insight from complex datasets.
+I'm a data-driven finance student at Wharton with an interest in macro, 
+
 
 ## Featured Projects
 
