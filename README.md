@@ -1,6 +1,7 @@
 # Hi, I'm Omar
 
-I'm a data-driven finance student at Wharton with an interest in macro, 
+I'm a Statistics and Finance student at Wharton with a strong interest in macroeconomics, machine learning, and financial markets.
+
 
 
 ## Featured Projects
