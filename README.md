@@ -1,4 +1,32 @@
-## Hi there 👋
+# Hi, I'm Omar
+
+I'm a data-driven finance student at Wharton with a passion for quantitative research, macroeconomics, and data science. I specialize in building models that extract insight from complex datasets.
+
+## Featured Projects
+
+- **[Hedge Fund Alpha Modelling](https://github.com/yourusername/project-repo)**  
+  Elastic Net + factor modeling to assess alpha and optimal AUM under Berk & Green (2004).
+
+- **[Uber/Lyft Price Prediction](https://github.com/yourusername/project-repo)**  
+  Regression and neural network models on ride and weather data. Achieved R² of 0.92.
+
+
+
+## Skills & Tools
+
+**Languages:** R, Python, SQL, Java 
+**Libraries:** tidyverse, scikit-learn, TensorFlow, glmnet, ggplot2  
+**Concepts:** Econometrics, Machine Learning, Factor Models, Time Series, Macro Strategy
+
+##  Education
+
+**University of Pennsylvania** – B.S. in Economics (Finance + Statistics)  
+Minors: Mathematics, Computer Science
+
+## Contact
+
+Feel free to connect via [LinkedIn](www.linkedin.com/in/omarbenkaddour) or email me at [omarbk@wharton.upenn.ed](omarbk@wharton.upenn.ed)
+
 
 <!--
 **omarbenkaddour/omarbenkaddour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
