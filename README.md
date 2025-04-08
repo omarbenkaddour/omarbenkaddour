@@ -1,33 +1,19 @@
 # Hi, I'm Omar
 
-I'm a Statistics and Finance student at Wharton with a strong interest in macroeconomics, machine learning, and financial markets.
-
-
+I'm a Statistics and Finance student at Wharton, with a background in math and computer science. I'm interested in using data to understand how policy shifts, macroeconomic forces, and geopolitical tensions shape markets.
 
 ## Featured Projects
 
-- **[Hedge Fund Alpha Modelling](https://github.com/yourusername/project-repo)**  
-  Elastic Net + factor modeling to assess alpha and optimal AUM under Berk & Green (2004).
+- **[Uber/Lyft Price Prediction](https://github.com/omarbenkaddour/uber-lyft-weather-price-prediction/tree/main)**  
+Predictive models on ride pricing from trip and weather data (Random Forest, Connected Neural Network)
 
-- **[Uber/Lyft Price Prediction](https://github.com/yourusername/project-repo)**  
-  Regression and neural network models on ride and weather data. Achieved R² of 0.92.
-
-
-
-## Skills & Tools
-
-**Languages:** R, Python, SQL, Java 
-**Libraries:** tidyverse, scikit-learn, TensorFlow, glmnet, ggplot2  
-**Concepts:** Econometrics, Machine Learning, Factor Models, Time Series, Macro Strategy
-
-##  Education
-
-**University of Pennsylvania** – B.S. in Economics (Finance + Statistics)  
-Minors: Mathematics, Computer Science
+- **[Hedge Fund Alpha Modelling](https://github.com/omarbenkaddour/fund-performance-factor-modeling)**  
+Alpha and AUM analysis using factor-based modeling (Elastic Net, CAPM, Fama-French, Carhart)
 
 ## Contact
 
-Feel free to connect via [LinkedIn](www.linkedin.com/in/omarbenkaddour) or email me at [omarbk@wharton.upenn.ed](omarbk@wharton.upenn.ed)
+Feel free to reach out via email: [omarbk@wharton.upenn.edu](mailto:omarbk@wharton.upenn.edu), or connect on [LinkedIn](https://www.linkedin.com/in/omarbenkaddour).
+
 
 
 <!--
