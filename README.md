@@ -11,7 +11,7 @@ Predictive models on ride pricing from trip and weather data (Random Forest, Con
 Alpha and AUM analysis using factor-based modeling (Elastic Net, CAPM, Fama-French, Carhart)
 
 - **[High-Frequency Equity Order-Flow Modeling](https://github.com/omarbenkaddour/High-Frequency-Equity-Order-Flow-Modeling)**  
-  Built best-, multi-, integrated-, and cross-asset OFI factors from LOB data using PCA; applied LASSO-based cross-impact regressions to uncover equity linkages and forecast one-minute returns
+Extracted OFI features from LOB data with PCA; used LASSO cross-impact regressions to model equity linkages and predict one-minute returns
 
 
 
