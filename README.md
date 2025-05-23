@@ -10,6 +10,11 @@ Predictive models on ride pricing from trip and weather data (Random Forest, Con
 - **[Hedge Fund Alpha Modelling](https://github.com/omarbenkaddour/fund-performance-factor-modeling)**  
 Alpha and AUM analysis using factor-based modeling (Elastic Net, CAPM, Fama-French, Carhart)
 
+- **[High-Frequency Equity Order-Flow Modeling](https://github.com/omarbenkaddour/High-Frequency-Equity-Order-Flow-Modeling)**  
+  Built best-, multi-, integrated-, and cross-asset OFI factors from LOB data using PCA; applied LASSO-based cross-impact regressions to uncover equity linkages and forecast one-minute returns
+
+
+
 ## Contact
 
 Feel free to reach out via email: [omarbk@wharton.upenn.edu](mailto:omarbk@wharton.upenn.edu), or connect on [LinkedIn](https://www.linkedin.com/in/omarbenkaddour).
