@@ -17,7 +17,7 @@ Extracted OFI features from LOB data with PCA; used LASSO cross-impact regressio
 
 ## Contact
 
-Feel free to reach out via email: [omarbk@wharton.upenn.edu](mailto:omarbk@wharton.upenn.edu), or connect on [LinkedIn](https://www.linkedin.com/in/omarbenkaddour).
+Feel free to reach out via email: [omarbk@wharton.upenn.edu](mailto:omarbk@seas.upenn.edu), or connect on [LinkedIn](https://www.linkedin.com/in/omarbenkaddour).
 
 
 
