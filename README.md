@@ -16,16 +16,16 @@ Undergraduate thesis using identified policy shocks, orthogonalized geopolitical
 - **[High-Frequency Equity Order-Flow Modeling](https://github.com/omarbenkaddour/High-Frequency-Equity-Order-Flow-Modeling)**  
 Extracted OFI features from LOB data with PCA; used LASSO cross-impact regressions to model equity linkages and predict one-minute returns
 
-- **[Uber/Lyft Price Prediction](https://github.com/omarbenkaddour/uber-lyft-weather-price-prediction/tree/main)**  
-Predictive models on ride pricing from trip and weather data (Random Forest, CNN)
-
 - **[Hedge Fund Performance Evaluation and Attribution](https://github.com/omarbenkaddour/fund-performance-factor-modeling)**  
 Alpha and AUM analysis using factor-based modeling (Elastic Net, CAPM, Fama-French, Carhart)
 
+- **[Uber/Lyft Price Prediction](https://github.com/omarbenkaddour/uber-lyft-weather-price-prediction/tree/main)**  
+Predictive models on ride pricing from trip and weather data (Random Forest, CNN)
+
 
 ## I'm currently working on: 
-- Koopman operator learning for moment forecasting, using VAE-based latent representations and constraint-aware training objectives to enforce multi-step stability and physically meaningful moment structure.
-- Optimization frameworks for intervention in human trafficking flow networks, using graph cuts, flow-based objectives, and network disruption formulations to study how targeted actions can reduce corridor connectivity.
+- Koopman operator learning for moment forecasting, using VAE-based latent representations and constraint-aware objectives for stable multi-step dynamics and moment realizability.
+- Network optimization for intervention in human trafficking flow systems, using cut-based and flow-based formulations to identify high-leverage disruptions to directed trafficking corridors.
 
 
 <!--
