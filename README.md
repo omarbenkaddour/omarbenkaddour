@@ -10,7 +10,7 @@ Please feel free to reach out via email: [omarbk@seas.upenn.edu](mailto:omarbk@s
 ## Featured Projects
 
 - **[Learning Dynamic Operators for Moment Evolution in Stochastic Systems](https://github.com/omarbenkaddour/ese4380-project)**  
-Engineered a regime-switching operator-learning pipeline for multi-step forecasting of moment trajectories, combining K-means state partitioning, per-regime Ridge estimation, recursive rollout evaluation, and constraint diagnostics for spectral stability and Hankel-PSD realizability across simulated and real-world time series. [Writeup](https://github.com/omarbenkaddour/ese4380-project/blob/main/Moment%20Forecasting%20Writeup.pdf)
+Engineered a regime-switching operator-learning pipeline for multi-step forecasting of moment trajectories, combining K-means state partitioning, per-regime Ridge estimation, recursive rollout evaluation, and constraint diagnostics for spectral stability and Hankel-PSD realizability across simulated and real-world time series; achieved stronger multi-step accuracy than global linear, polynomial, and classical closure baselines while identifying a key fit–stability tradeoff. [Writeup](https://github.com/omarbenkaddour/ese4380-project/blob/main/Moment%20Forecasting%20Writeup.pdf) [Writeup](https://github.com/omarbenkaddour/ese4380-project/blob/main/Moment%20Forecasting%20Writeup.pdf)
 
 - **[State-Dependent Monetary Policy Transmission under Geopolitical Risk](https://github.com/omarbenkaddour/geopolitical-risk-monetary-policy-transmission)**  
 Undergraduate thesis estimating state-dependent monetary-policy impulse responses under geopolitical stress, using high-frequency surprise measures, orthogonalized GPR shocks, and local projections to document significant attenuations and reversals in transmission. [Writeup](https://github.com/omarbenkaddour/geopolitical-risk-monetary-policy-transmission/blob/main/Undergraduate%20Thesis.pdf)
@@ -22,7 +22,7 @@ Extracted OFI features from LOB data with PCA; used LASSO cross-impact regressio
 Analyzed hedge fund alpha, capacity, and downside resilience using CAPM, Fama-French, Carhart, and extended risk-premia factor models with Elastic Net selection. Estimated investor value added, alpha–AUM tradeoffs, and crisis-period performance during 2008–2009. [Writeup](https://github.com/omarbenkaddour/fund-performance-factor-modeling/blob/main/Modeling%20Alpha%20and%20Capacity%20Constraints%20in%20Macro%20Hedge%20Fund.pdf)
 
 - **[Uber/Lyft Price Prediction](https://github.com/omarbenkaddour/uber-lyft-weather-price-prediction/tree/main)**  
-Built predictive models for ride pricing using trip-level and weather features, comparing linear, tree-based, and neural methods to study key drivers of fare variation and achieving 0.94 \(R^2\.
+Built predictive models for ride pricing using trip-level and weather features, comparing linear, tree-based, and neural methods to study key drivers of fare variation and achieving 0.94 R².
 
 ## I'm currently working on: 
 - Koopman operator learning for moment forecasting, using VAE-based latent representations and constraint-aware objectives for stable and realizable multi-step forecasts.
