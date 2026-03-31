@@ -19,7 +19,7 @@ Undergraduate thesis estimating state-dependent monetary-policy impulse response
 Extracted OFI features from LOB data with PCA; used LASSO cross-impact regressions to model equity linkages and predict one-minute returns. 
 
 - **[Hedge Fund Performance Evaluation and Attribution](https://github.com/omarbenkaddour/fund-performance-factor-modeling)**  
-Analyzed hedge fund alpha, capacity, and downside resilience using CAPM, Fama-French, Carhart, and extended risk-premia factor models with Elastic Net selection. Estimated investor value added, alpha–AUM tradeoffs, and crisis-period performance during 2008–2009. [Writeup](https://github.com/omarbenkaddour/fund-performance-factor-modeling/blob/main/Modeling%20Alpha%20and%20Capacity%20Constraints%20in%20Macro%20Hedge%20Fund.pdf)
+Analyzed hedge fund alpha, capacity, and downside resilience using CAPM, Fama-French, Carhart, and extended risk-premia factor models with Elastic Net selection. Estimated investor value added, alpha–AUM tradeoffs, and crisis-period performance. [Writeup](https://github.com/omarbenkaddour/fund-performance-factor-modeling/blob/main/Modeling%20Alpha%20and%20Capacity%20Constraints%20in%20Macro%20Hedge%20Fund.pdf)
 
 - **[Uber/Lyft Price Prediction](https://github.com/omarbenkaddour/uber-lyft-weather-price-prediction/tree/main)**  
 Built predictive models for ride pricing using trip-level and weather features, comparing linear, tree-based, and neural methods to study key drivers of fare variation and achieving 0.94 R².
