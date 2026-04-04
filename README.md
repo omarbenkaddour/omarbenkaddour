@@ -2,7 +2,7 @@
 
 I'm pursuing an M.S.E. in Data Science at Penn Engineering, with a background in Statistics, Finance, and Computer Science from Wharton.
 
-I'm interested in statistical learning, dynamical systems, and forecasting, with experience spanning machine learning research, robotics, and quantitative finance.
+I'm interested in statistical learning, dynamical systems, forecasting, and Rienforcement Learning with experience spanning machine learning research, robotics, and quantitative finance.
 
 Please feel free to reach out via email: [omarbk@seas.upenn.edu](mailto:omarbk@seas.upenn.edu), or connect on [LinkedIn](https://www.linkedin.com/in/omarbenkaddour).
 
