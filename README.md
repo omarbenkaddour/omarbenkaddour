@@ -4,7 +4,7 @@ I'm pursuing an M.S.E. in Data Science at Penn Engineering, with a background in
 
 I'm interested in statistical learning, dynamical systems, forecasting, and reinforcement learning with experience spanning machine learning research, robotics, and quantitative finance.
 
-Please feel free to reach out via email: [omarbk@seas.upenn.edu](mailto:omarbk@seas.upenn.edu), or connect on [LinkedIn](https://www.linkedin.com/in/omarbenkaddour).
+Please feel free to reach out via email: [omarbk@seas.upenn.edu](mailto:omarbk@engineering.upenn.edu), or connect on [LinkedIn](https://www.linkedin.com/in/omarbenkaddour).
 
 
 ## Featured Projects
