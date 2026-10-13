@@ -18,9 +18,6 @@ Undergraduate thesis estimating state-dependent monetary-policy impulse response
 - **[High-Frequency Equity Order-Flow Modeling](https://github.com/omarbenkaddour/High-Frequency-Equity-Order-Flow-Modeling)**  
 Extracted OFI features from LOB data with PCA; used LASSO cross-impact regressions to model equity linkages and predict one-minute returns. 
 
-- **[Uber/Lyft Price Prediction](https://github.com/omarbenkaddour/uber-lyft-weather-price-prediction/tree/main)**  
-Built predictive models for ride pricing using trip-level and weather features, comparing linear, tree-based, and neural methods to study key drivers of fare variation and achieving 0.94 R².
-
 ## I'm currently working on: 
 - Koopman operator learning for moment forecasting, using VAE-based latent representations and constraint-aware objectives for stable and realizable multi-step forecasts.
 - Network optimization for intervention in human trafficking flow systems, using cut-based and flow-based formulations to identify high-leverage disruptions to directed trafficking corridors.
